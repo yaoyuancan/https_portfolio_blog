@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Updated Blog Title",
+    "content": "This is the updated content.",
+    "author": "John Smith",
+    "category": "Frontend Development",
+    "publishDate": "2025-02-18T19:08:48-07:00",
+    "status": "published"
+  },
+  {
+    "id": 2,
+    "title": "Microservices Architecture Implementation Guide",
+    "content": "When building large-scale applications, microservices architecture provides excellent scalability and maintainability. This article will share my practical experience...",
+    "author": "David Lee",
+    "category": "Backend Development",
+    "publishDate": "2025-02-17T15:30:00-07:00",
+    "status": "published"
+  },
+  {
+    "id": 3,
+    "title": "WebGL Performance Optimization Tips",
+    "content": "When developing 3D visualization applications, performance optimization is a crucial topic. This article will introduce some practical WebGL performance optimization methods...",
+    "author": "David Lee",
+    "category": "Performance Optimization",
+    "publishDate": "2025-02-16T10:20:00-07:00",
+    "status": "published"
+  }
+]

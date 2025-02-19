@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "bio": "Senior full-stack developer specializing in cloud architecture",
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "AWS",
+      "Kubernetes"
+    ],
+    "projects": [
+      {
+        "title": "Enterprise Microservices Management Platform",
+        "description": "A Kubernetes-based microservices management platform integrating service discovery, configuration management, monitoring, and alerting.",
+        "technologies": [
+          "React",
+          "Node.js",
+          "Kubernetes",
+          "Docker",
+          "Prometheus"
+        ],
+        "githubUrl": "https://github.com/johnsmith/microservice-platform",
+        "demoUrl": "https://demo.microservice-platform.com"
+      },
+      {
+        "title": "Smart Home IoT Platform",
+        "description": "An IoT platform for connecting smart home devices, supporting device management, data collection, and automation control.",
+        "technologies": [
+          "Vue.js",
+          "Python",
+          "MQTT",
+          "MongoDB",
+          "Redis"
+        ],
+        "githubUrl": "https://github.com/johnsmith/smart-home-iot",
+        "demoUrl": "https://demo.smart-home-iot.com"
+      }
+    ],
+    "contact": {
+      "email": "john.smith.dev@example.com"
+    },
+    "socialLinks": {
+      "github": "https://github.com/johnsmith",
+      "linkedin": "https://linkedin.com/in/johnsmith",
+      "twitter": "https://twitter.com/johnsmith"
+    },
+    "blogPosts": [
+      {
+        "title": "Microservices Architecture Design Patterns",
+        "summary": "Sharing practical experience in large-scale microservices architecture",
+        "content": "This article explains in detail how to design and implement a scalable microservices architecture...",
+        "publishDate": "2025-01-15T08:00:00Z",
+        "status": "published"
+      },
+      {
+        "title": "Kubernetes Best Practices Guide",
+        "summary": "Best practices for Kubernetes based on real project experience",
+        "content": "This article shares various considerations for using Kubernetes in production environments...",
+        "publishDate": "2025-02-01T09:00:00Z",
+        "status": "preview"
+      }
+    ],
+    "createdAt": "2025-01-01T00:00:00Z",
+    "updatedAt": "2025-02-19T03:12:16.414Z"
+  },
+  {
+    "id": 2,
+    "name": "David Lee",
+    "bio": "Frontend architect focusing on modern web application development. Passionate about performance optimization and user experience enhancement.",
+    "skills": [
+      "JavaScript",
+      "Vue.js",
+      "React",
+      "WebGL",
+      "Three.js",
+      "Performance Optimization",
+      "PWA"
+    ],
+    "projects": [
+      {
+        "title": "3D Data Visualization Platform",
+        "description": "A data visualization platform developed with WebGL and Three.js, supporting large-scale data 3D presentation and interaction.",
+        "technologies": [
+          "Vue.js",
+          "WebGL",
+          "Three.js",
+          "D3.js"
+        ],
+        "githubUrl": "https://github.com/davidlee/3d-data-vis",
+        "demoUrl": "https://demo.3d-data-vis.com"
+      }
+    ],
+    "contact": {
+      "email": "david.lee@example.com",
+      "phone": "+1 (555) 987-6543",
+      "location": "New York, NY"
+    },
+    "socialLinks": {
+      "github": "https://github.com/davidlee",
+      "linkedin": "https://linkedin.com/in/davidlee"
+    },
+    "blogPosts": [
+      {
+        "title": "WebGL Performance Optimization Guide",
+        "summary": "How to improve WebGL application performance",
+        "content": "This article details various performance optimization techniques for WebGL applications...",
+        "publishDate": "2025-02-10T10:00:00Z",
+        "status": "published"
+      }
+    ],
+    "createdAt": "2025-01-15T00:00:00Z",
+    "updatedAt": "2025-02-18T19:00:00Z"
+  }
+]
